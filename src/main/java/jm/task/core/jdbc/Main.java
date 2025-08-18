@@ -1,6 +1,5 @@
 package jm.task.core.jdbc;
 
-import com.google.protobuf.Service;
 import jm.task.core.jdbc.model.User;
 import jm.task.core.jdbc.service.UserServiceImpl;
 
